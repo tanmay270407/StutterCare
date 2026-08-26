@@ -1,0 +1,10 @@
+{
+  "name": "StutterCare",
+  "description": "A calm, stammering-support platform prototype featuring dedicated Patient, SLP/Therapist, and Admin portals with AI-guided assistance, clinician plan management, and non-diagnostic feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
